@@ -1,0 +1,162 @@
+header{
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(1.jpg);
+height:100vh;
+background-size: cover;
+background-position:center;
+}
+ul{
+float:right;
+list-style-type:none;
+}
+ul li{
+display:inline-block;
+}
+ul li a{
+text-decoration:none;
+color:#fff;
+padding: 6px 14px;
+border:1px solid transparent;
+transition:1s ease;
+}
+ul li a:hover{
+background-color: #fff;
+color:#000;
+}
+
+ul li.active a{
+background-color: #fff;
+color:#000;
+}
+
+.logo img{
+float: left;
+width: 150px;
+height: auto;
+}
+
+.row{
+max-width:1200px;
+margin:auto;
+}
+.title{
+position:absolute;
+top:50%;
+left:50%;
+transform: translate(-50%,-50%);
+}
+.title h1{
+color: #fff;
+font-size: 80px;
+}
+.button
+{
+position:absolute;
+top:80%;
+left:50%;
+transform: translate(-50%,-50%);
+}
+.btn{
+border:1px solid #fff;
+padding:10px 10px;
+color:#fff;
+text-decoration:none;
+transition: 1s ease;
+}
+.btn:hover{
+background-color:#fff;
+}
+
+.Home{
+style="font-family:verdana"
+margin:100;
+font-size:35px;
+background-image: url(jam.jpg);
+height:100vh;
+background-size: cover;
+background-position:center;
+}
+
+.Qualifications{
+font-size: 40px;
+text-align: center;
+color: black;
+}
+.Qualifications1{
+background-image: url(tu.jpg);
+height:100vh;
+background-size: cover;
+background-position:center;
+font-size: 40px;
+text-align: center;
+color: black;
+}
+.Table,th,td{
+font-size: 30px;
+border: 1px solid black;
+}
+
+.Projects{
+font-size: 50px;
+text-align: center;
+color: black;
+}
+.Projects1{
+background-image: url(jack.jpg);
+height:195vh;
+background-size: cover;
+background-position:center;
+font-size: 50px;
+text-align: center;
+color: black;
+}
+.TDA{
+font-size: 30px;
+text-align: left;
+color: black;
+}
+
+.InterpersonalSkills{
+font-size: 50px;
+text-align: center;
+color: black;
+}
+.InterpersonalSkills1{
+background-image: url(hi.jpg);
+height:100vh;
+background-size: cover;
+background-position:center;
+font-size: 30px;
+text-align: center;
+color: black;
+}
+.IS{
+font-size: 30px;
+text-align: left;
+color: black:
+}
+
+.Contact{
+font-size: 50px;
+text-align: center;
+color: black;
+}
+.Contact1{
+background-image: url(9900.jpg);
+height:318vh;
+background-size: cover;
+background-position:center;
+font-size: 50px;
+text-align: center;
+color: black;
+}
+.Contact2{
+font-size: 40px;
+text-align: center;
+color: black;
+}
+.Contact3{
+font-size: 40px;
+text-align: center;
+color: black;
+}
+
